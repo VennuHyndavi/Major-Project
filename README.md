@@ -1,4 +1,4 @@
-                                                            Deep Convolution Neural Networks For Twitter Sentiment Analysis
+  # Deep Convolution Neural Networks For Twitter Sentiment Analysis
 
 This project focuses on sentiment analysis using Convolutional Neural Networks (CNNs) on Twitter data. Sentiment analysis is crucial for understanding public opinions and emotions expressed on social media platforms. Leveraging pre-trained word embeddings from GloVe, the project aims to predict sentiments in tweets, classifying them as positive or negative.
 
